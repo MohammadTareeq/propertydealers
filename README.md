@@ -3,7 +3,7 @@ A professional, responsive real estate website built on WordPress, designed excl
 
 ## ✨ Features
 
-- Dynamic and filterable property listings
+- Dynamic property listings
 - Contact and “Book Now” inquiry forms
 - Property detail pages with images, pricing, and location info
 - Mobile-friendly and SEO-optimized layout
