@@ -30,12 +30,6 @@ A professional, responsive real estate website built on WordPress, designed excl
 
 > ⚠️ **Note:** This repository includes only the custom theme, plugin configurations, and essential setup files. It does **not** include WordPress core files or private configuration (e.g., passwords, API keys).
 
-## 📷 Screenshots
-
-![Homepage Screenshot](Portfolio/Download/Screenshot%202025-06-13%20212140.png)
-
-
-
 ## 📄 License
 
 This project is for educational and personal portfolio use. Commercial use may require attribution depending on third-party theme/plugin licenses.
