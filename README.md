@@ -3,7 +3,7 @@
 A professional real estate platform built on WordPress, tailored for customers. This site offers:
 
 - Dynamic property listings
-- Contact and inquiry forms
+- Contact and Book now forms
 
 ## Tech Stack
 
