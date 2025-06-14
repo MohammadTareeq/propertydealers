@@ -1,21 +1,44 @@
 # Property Dealers – Real Estate Website (WordPress)
+A professional, responsive real estate website built on WordPress, designed exclusively for property dealers and customers seeking to purchase properties. This platform offers a seamless user experience with a modern design and comprehensive features to efficiently manage and showcase property listings—focusing solely on property sales to end customers.
 
-A professional real estate platform built on WordPress, tailored for customers. This site offers:
+## ✨ Features
 
-- Dynamic property listings
-- Contact and Book now forms
+- Dynamic and filterable property listings
+- Contact and “Book Now” inquiry forms
+- Property detail pages with images, pricing, and location info
+- Mobile-friendly and SEO-optimized layout
+- Admin panel for easy property management
+- Visually engaging homepage banner and dedicated sections highlighting various real estate property types for easy exploration
+- 
+## 🛠️ Tech Stack
 
-## Tech Stack
+- **CMS**: WordPress
+- **Theme**: Custom Theme (based on [Real Estate](https://wordpress.org/themes/real-estate/) or similar)
+- **Plugins Used**:
+  - [Elementor](https://wordpress.org/plugins/elementor/)
+  - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+   - Optional: [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) for search optimization
 
-- WordPress CMS
-- Custom Theme (based on [Real Estate] (https://wordpress.org/themes/real estate/) or similar)
-- Plugins: Elementor, Contact Form 7, Real Estate Manager
+## 🚀 Setup Instructions
 
-## Setup Instructions
+1. Clone or download this repository.
+2. Set up a local or live WordPress environment.
+3. Copy the `wp-content/themes/your-theme` and `wp-content/plugins/` folders into your WordPress installation.
+4. Import the database (if included) and update the `siteurl` and `home` in the database to match your domain.
+5. Configure `wp-config.php` (ensure database credentials are correct).
+6. Log in to the admin panel to customize theme settings and content.
 
-1. Clone the repository
-2. Install WordPress and configure `wp-config.php`
-3. Copy the theme and plugin folders into `wp-content/`
-4. Import database and set site URL
+> ⚠️ **Note:** This repository includes only the custom theme, plugin configurations, and essential setup files. It does **not** include WordPress core files or private configuration (e.g., passwords, API keys).
 
-**Note:** This repository only includes custom theme/plugin code and configuration – not the full WordPress core.
+## 📷 Screenshots
+
+![Homepage Screenshot](Portfolio/Download/Screenshot%202025-06-13%20212140.png)
+
+
+
+## 📄 License
+
+This project is for educational and personal portfolio use. Commercial use may require attribution depending on third-party theme/plugin licenses.
+
+---
+
