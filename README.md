@@ -8,8 +8,8 @@ A professional, responsive real estate website built on WordPress, designed excl
 - Property detail pages with images, pricing, and location info
 - Mobile-friendly and SEO-optimized layout
 - Admin panel for easy property management
-- Visually engaging homepage banner and dedicated sections highlighting various real estate property types for easy exploration
-- 
+- Visually engaging homepage banner and dedicated sections highlighting various real estate property types (Eg: Residential, Commercial, etc) for easy exploration
+  
 ## 🛠️ Tech Stack
 
 - **CMS**: WordPress
